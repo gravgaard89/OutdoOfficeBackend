@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{342EDF92-C9D1-4BA5-8F5F-58D2515FE846}|Default">
+  <MonoDevelop.Ide.ItemProperties.OutdoOffice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/BookingController.cs">
+    <Files>
+      <File FileName="ClientApp/README.md" Line="145" Column="42" />
+      <File FileName="ClientApp/package-lock.json" />
+      <File FileName="Controllers/BookingController.cs" Line="13" Column="36" />
+      <File FileName="Booking.cs" Line="6" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OutdoOffice" expanded="True">
+            <Node name="OutdoOffice" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookingController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
