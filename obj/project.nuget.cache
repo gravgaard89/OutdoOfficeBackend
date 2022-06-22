@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PHzH7AlemnabhMDpSSPr9yMh+oQ30KkaqeYZP3BSH0T1iEx/gPv7NevveXHA6y1Bnshog3pxeWh3ZAFEjWCBdg==",
+  "dgSpecHash": "gzxdns8B/a9D/oHp5fjuuJqJGfhilU59cyzP4v+uTnGroHJUPihcwtTqg0IcvBJasnm1A+iBT6KTgobZX6gmQA==",
   "success": true,
-  "projectFilePath": "/Users/larsgrav/Projects/OutdoOffice/OutdoOffice.csproj",
+  "projectFilePath": "/Users/larsgrav/Projects/OutdoOfficeBackend/OutdoOfficeBackend/OutdoOffice.csproj",
   "expectedPackageFiles": [
     "/Users/larsgrav/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.14/microsoft.aspnetcore.spaservices.extensions.5.0.14.nupkg.sha512",
     "/Users/larsgrav/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",

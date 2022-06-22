@@ -1250,11 +1250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/larsgrav/Projects/OutdoOffice/OutdoOffice.csproj",
+      "projectUniqueName": "/Users/larsgrav/Projects/OutdoOfficeBackend/OutdoOfficeBackend/OutdoOffice.csproj",
       "projectName": "OutdoOffice",
-      "projectPath": "/Users/larsgrav/Projects/OutdoOffice/OutdoOffice.csproj",
+      "projectPath": "/Users/larsgrav/Projects/OutdoOfficeBackend/OutdoOfficeBackend/OutdoOffice.csproj",
       "packagesPath": "/Users/larsgrav/.nuget/packages/",
-      "outputPath": "/Users/larsgrav/Projects/OutdoOffice/obj/",
+      "outputPath": "/Users/larsgrav/Projects/OutdoOfficeBackend/OutdoOfficeBackend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
